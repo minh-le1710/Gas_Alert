@@ -61,13 +61,13 @@ pio run --target upload
 ## Demo
 
 **Hardware Overview**  
-   ![Hardware Overview](demo/1.png)
+   <img src="demo/1.png" width="50%" />
 
 **Strong WiFi Signal**  
-   ![WiFi Good Signal](demo/2.png)
+   <img src="demo/2.png" width="50%" />
 
 **High Alert Mode**  
-   ![High Alert](demo/3.png)
+   <img src="demo/3.png" width="50%" />
 
 **Blynk Web Dashboard**  
    ![Blynk Dashboard](demo/4.png)
